@@ -13,7 +13,7 @@ Logistic Regression
 Decision Tree Classifier
 Random Forest Classifier
 
-🏆 Best Performing Model: Logistic Regression with 90.4% Accuracy
+ Best Performing Model: Logistic Regression with 90.4% Accuracy
 
  Project Workflow
 
